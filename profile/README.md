@@ -1,6 +1,6 @@
 # Bangkit 20223 C23-PS319 Product-Based-Capstone-Project
 
-**_ None _**
+**Application that can help build a consistent morning routine to solve productivity and health issues**
 
 ## Hello Everyone! 👋
 
