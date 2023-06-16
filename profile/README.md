@@ -20,4 +20,4 @@ Our team Consist of 6 people.
 
 ## Project Description
 
-**_ None _**
+According to the WHO, the COVID-19 pandemic has had various impacts on mental and physical health. According to a survey by McKinsey & Company, the COVID-19 pandemic has disrupted business productivity worldwide, with more than half of respondents experiencing decreased productivity. BMC Public Health reported that healthy and consistent morning routines such as reading, and exercise can improve physical and mental health. Reading books is useful as a source of inspiration to increase productivity, and exercising is useful for building physical and mental health. Therefore, we propose an application called Moru. Moru is an application that helps users to be consistent in doing morning routines to increase productivity in the form of reading books and exercising. We plan to make several features including registration, login, home page, scheduling, book recommendation, exercise recommendation, alarm and statistics history. We successfully completed all the planned features.
